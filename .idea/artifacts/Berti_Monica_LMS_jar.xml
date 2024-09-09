@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Berti_Monica_LMS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Berti_Monica_LMS_jar</output-path>
+    <root id="archive" name="Berti_Monica_LMS.jar">
+      <element id="module-output" name="Berti_Monica_LMS" />
+    </root>
+  </artifact>
+</component>
